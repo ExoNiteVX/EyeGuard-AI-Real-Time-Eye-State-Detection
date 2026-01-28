@@ -1,4 +1,10 @@
 # 👁️ EyeGuard AI – Real-Time Eye State Detection
+---
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Computer%20Vision-blueviolet?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 EyeGuard AI is a Python-based real-time eye state detection system using OpenCV and MediaPipe. It identifies whether your eyes are open or closed using facial landmarks from your webcam feed.
 
